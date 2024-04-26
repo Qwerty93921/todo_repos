@@ -9,4 +9,10 @@
 
 # bulma.io - css framework site
 
+# git checkout -b <название ветки>
+
+# git add --all
+# git commit -m "comment"
+# git push origin <название ветки>
+
 # -----------------------------------------------------------------------------
